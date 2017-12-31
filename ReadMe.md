@@ -1,5 +1,5 @@
 ## Haskell Project
-This is a project of Haskell course in Fudan University. The project is a FPS game. You can also find a report file `./labReport.pdf`. But it was wrote in Chinese.     
+This is a project of Haskell course in Fudan University. The project is a FPS game. You can find a report file `./labReport.pdf`. But it was wrote in Chinese.     
 Author : Sun Xibo  
 Mail   : 345567848@qq.com
 
