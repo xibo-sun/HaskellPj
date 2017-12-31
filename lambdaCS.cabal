@@ -1,0 +1,31 @@
+name:                lambdaCS
+version:             0.0.1.0
+homepage:            https://github.com/HubertSun7/HaskellPj
+author:              Sun Xibo
+build-type:          Simple
+cabal-version:       >=1.8
+
+executable:      lambdaCSServer
+main-is:       Server.hs
+hs-source-dirs:      src
+build-depends:       base >= 4.8
+                     , OpenGL
+                     , Yampa
+                     , GLFW >= 0.4.1
+                     , HTTP
+                     , network
+                     , time
+
+executable:      lambdaCS
+main-is:       Client.hs
+hs-source-dirs:      src
+build-depends:       base >= 4.8
+                     , OpenGL
+                     , Yampa
+                     , GLFW >= 0.4.1
+                     , HTTP
+                     , network
+                     , array >= 0.2.0.0
+                     , random
+                     , time
+                     , mtl
