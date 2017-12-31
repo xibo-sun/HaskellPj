@@ -4,7 +4,6 @@ Author : Sun Xibo
 Mail   : 345567848@qq.com
 
 ## Building
-================
 1. Download source code:
  
 		git clone git@github.com:HubertSun7/HaskellPj.git
@@ -15,7 +14,6 @@ Mail   : 345567848@qq.com
     	cabal install
 
 ## Running
-================
 To run the game. Running the Server first:
 
 		<Server_dir>/lambdaCSServer
