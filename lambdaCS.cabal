@@ -6,7 +6,7 @@ build-type:          Simple
 cabal-version:       >=1.8
 
 executable:      lambdaCSServer
-main-is:       Server.hs
+main-is:         Server.hs
 hs-source-dirs:      src
 build-depends:       base >= 4.8
                      , OpenGL
@@ -17,7 +17,7 @@ build-depends:       base >= 4.8
                      , time
 
 executable:      lambdaCS
-main-is:       Client.hs
+main-is:         Client.hs
 hs-source-dirs:      src
 build-depends:       base >= 4.8
                      , OpenGL
