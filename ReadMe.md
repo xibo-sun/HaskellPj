@@ -13,7 +13,7 @@ Mail   : 345567848@qq.com
 
     	cabal install
 
-## Running
+## Run
 To run the game. Running the Server first:
 
 		<Server_dir>/lambdaCSServer
